@@ -38,9 +38,15 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
+Wiki
+-------
+
+See the [Wiki][wiki] for more information.
+
 License
 -------
 
 Released under the GNU Version 3 license. See the [LICENSE][license] file for further details.
 
 [license]: https://github.com/renardus/flexible_features/blob/master/LICENSE.md
+[wiki]: https://github.com/renardus/flexible_features/wiki
