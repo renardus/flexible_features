@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Add features to a model on the fly.}
   spec.description   = %q{A user can add feature descriptors to a parent model. The child model gets extra attributes based on the feature descriptors.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/renardus/flexible_features/"
   spec.license       = "GPLv3"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
